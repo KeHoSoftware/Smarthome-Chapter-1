@@ -12,6 +12,7 @@ Test Computer - AmigaOne500
 
 On your Arduino Mega you must flash the file
 Arduino_Mega_2560_SmartHome_Chapter_1.ino
+
 Please be sure to change the IP before to fit in your network !
 
 Also you must change the IP in the file connect.ini the same way !
