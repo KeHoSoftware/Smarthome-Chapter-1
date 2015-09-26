@@ -1,5 +1,6 @@
 # Smarthome-Chapter-1
-Amiga Future Magazine - how to build a smarthome with Cross-Compiler Hollywood and your Amiga Computer
+Amiga Future Magazine
+How to build a smarthome with Cross-Compiler Hollywood and your Amiga Computer
 
 Short:        SmartHome Amiga - Chapter 1
 Author:       Achim Kern - KeHo Software
