@@ -3,14 +3,8 @@ Amiga Future Magazine
 
 How to build a smarthome with Cross-Compiler Hollywood and your Amiga Computer
 
-Short:        SmartHome Amiga - Chapter 1
-Author:       Achim Kern - KeHo Software
-Uploader:     Achim Kern - achim.kern()keho-software.com
-Type:         tool/wb
-Version:      1.0
-Architecture: ppc-amigaos >=4.1.0
-
 Important:
+
 The software requires an Arduino Mega 2560 with Ethernet Shield
 The tool runs smooth with all features under OS4.1
 Please run the application in window mode for best results
@@ -33,10 +27,15 @@ Ringhio Messages will inform you what's going on
 Requirements:
 
 ArduinoMega 2560
+
 Ethernet Shield
+
 Breadboard
+
 3x resistors 220 Ohm
+
 3x Led's green, yellow, red
+
 some wire
 
 of course an Amiga and the Hollywood application...
